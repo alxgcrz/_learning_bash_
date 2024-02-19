@@ -12,7 +12,7 @@
     "pandoc:copy": "copy *.html %npm_config_html%",
     "pdf:create": "mdpdf README.md README.pdf",
     "pdf:copy": "copy README.pdf %npm_config_pdf%",
-    "live": "live-server vue.html"
+    "live": "live-server bash.html"
   },
   "repository": {
     "type": "git",
