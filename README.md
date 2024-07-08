@@ -2,14 +2,6 @@
 
 ... EN DESARROLLO ...
 
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://alxgcrz.com" target="_blank">
-    <img src="https://alxgcrz.com/assets/asset_06_v1.png" alt="En desarrollo" title="En desarrollo" width="40%">
-  </a>
-</p>
-<!-- markdownlint-enable MD033 -->
-
 ## Overview
 
 La primera línea de un script es el [shebang](http://en.wikipedia.org/wiki/Shebang_(Unix)) que le indica al sistema cómo ejecutar el script. Los comentarios en shell empiezan con `#`. El shebang también es un comentario.
@@ -247,7 +239,7 @@ cut -d ',' -f 1 file.txt
 
 ---
 
-## Enlaces de interés
+## Referencias
 
 - <https://www.gnu.org/software/bash/>
 - <https://www.gnu.org/software/bash/manual/bash.html>
