@@ -1,6 +1,6 @@
 # Bash
 
-... EN DESARROLLO ...
+> :warning: **DOCUMENTO EN DESARROLLO** :warning:
 
 ## Overview
 
@@ -239,15 +239,22 @@ cut -d ',' -f 1 file.txt
 
 ---
 
-## Referencias
+## Enlaces
 
+### Bash
+
+- 👓 <https://github.com/awesome-lists/awesome-bash>
+- [Ultimate List of Linux bash commands](https://github.com/trinib/Linux-Bash-Commands)
+- [Pure Bash Bible | A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
+- [ShellCheck - finds bugs in your shell scripts.](https://www.shellcheck.net/)
+- [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 - <https://www.gnu.org/software/bash/>
 - <https://www.gnu.org/software/bash/manual/bash.html>
 - <https://github.com/awesome-lists/awesome-bash>
 - <https://github.com/alebcay/awesome-shell>
 - <https://freakspot.net/programas/docs/bash/>
 - <https://runebook.dev/es/docs/bash/>
-- <https://www.juntadeandalucia.es/averroes/centros-tic/14002996/helvia/sitio/upload/Introducion_bash.pdf>
+- <https://openaccess.uoc.edu/bitstream/10609/150294/8/IntroduccionABash.pdf>
 - <https://triton.astroscu.unam.mx/fruiz/introduccion/shell/programacion-shell-bash.pdf>
 
 ## Licencia
